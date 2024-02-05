@@ -1,0 +1,48 @@
+.maincont {
+    float: left;
+    width: 40%;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    padding: 20px;
+    margin-top: -160px;
+    
+}
+
+.header {
+    float: right;
+    width: 45%;
+    border: 3px; 
+    padding: 10px;
+    text-align: center;
+    height: 400px;
+}
+
+h1 {
+    font-size: 80px;
+    text-shadow: 3px 5px rgba(239, 85, 147, 0.443); 
+    color: #5E5A5A;
+}
+
+.title1 {
+    text-align: l2eft;
+    font-size: 30px;
+}
+
+ul.langs {
+
+    list-style-type: square;
+      
+      
+}
+
+.column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
